@@ -1,0 +1,7 @@
+#this file is no needed
+noneed.txt
+#this folder and its content is also not needed
+justforfun/
+#do not include any log files
+*.log
+
